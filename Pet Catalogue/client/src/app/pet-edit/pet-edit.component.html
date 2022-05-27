@@ -1,0 +1,5 @@
+<div class="container">
+  <h2 class="display-2 my-3">{{pet.id ? 'Edit a pet' : 'New pet'}}</h2>
+
+  <app-pet-new [pet]="pet" (save)="handleSave($event)"></app-pet-new>
+</div>
