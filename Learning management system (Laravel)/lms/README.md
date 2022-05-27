@@ -17,4 +17,4 @@ The student can do the following tasks:
     to view the tasks for a subject
     to submit a solution for a task
 
-The task must be implemented as a Laravel application using a local SQLite database. The tables must be filled by migration and seeded with a few data.
+The task is implemented as a Laravel application using a local SQLite database. The tables are filled by migration and seeded with a few data.
